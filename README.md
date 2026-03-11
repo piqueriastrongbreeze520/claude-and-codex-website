@@ -74,6 +74,30 @@
 
    退款策略：暂无
 
+1. [Packy Code](https://www.packyapi.com/register?aff=2x7O)
+
+   支持模型：Claude Code，Codex，Gemini 等多种模型
+
+   价格：按量付费
+
+   购买方式：微信、支付宝、信用卡
+
+   注册优惠：注册送 1 美元
+
+   退款策略：暂无
+
+1. [Packy Code（Codex 包月）](https://codex.packycode.com)
+
+   支持模型：Codex
+
+   价格：$6.30/月，$10.90/月，$12.90/月
+
+   购买方式：淘宝商城
+
+   注册优惠：无
+
+   退款策略：24 小时内不满意退款
+
 ## 贡献指南
 
 欢迎提交 PR 添加新的中转网站
