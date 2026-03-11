@@ -26,6 +26,18 @@
 
    退款策略：暂无
 
+1. [Cubence](https://cubence.com/signup?code=SCYZTMP5)
+
+   支持模型：Claude Code，Codex，Gemini 等
+
+   价格：按量付费，¥238/月，¥468/月，¥738/月
+
+   购买方式：微信、支付宝
+
+   注册优惠：暂无
+
+   退款策略：30 天内退款
+
 ## 贡献指南
 
 欢迎提交 PR 添加新的中转网站
