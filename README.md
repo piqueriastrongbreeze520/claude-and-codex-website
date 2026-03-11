@@ -26,6 +26,18 @@
 
    退款策略：暂无
 
+1. [Cpass](https://cf.cpass.cc/register?aff=JFZj)
+
+   支持模型：Claude Code，Codex
+
+   价格：按量付费
+
+   购买方式：微信、支付宝
+
+   注册优惠：注册送 2 元
+
+   退款策略：暂无
+
 1. [Cubence](https://cubence.com/signup?code=SCYZTMP5)
 
    支持模型：Claude Code，Codex，Gemini 等
