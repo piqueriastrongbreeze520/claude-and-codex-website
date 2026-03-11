@@ -24,6 +24,7 @@
 | [HongMa](https://hongmacc.com/signup?ref=HONGMACC-CA1CB2B5) | ¥9.90/年（限购），¥248-798/月 | Claude/Codex/Gemini | 微信、支付宝 | 暂无 |
 | [Packy Code（Codex 包月）](https://codex.packycode.com) | $6.30-12.90/月 | Codex | 淘宝商城 | 无 |
 | [Right Codes](https://right.codes/register?aff=fb78e9c7) | ￥45-75/月 | Codex/Claude | 支付宝 | 暂无 |
+| [SSSAiCode](https://www.sssaicode.com/register?ref=ARI9H5) | ¥9.9/月（限购），¥149-1559/月 | Claude/Codex | 微信、支付宝、信用卡 | 注册送 10 元 |
 
 ---
 
