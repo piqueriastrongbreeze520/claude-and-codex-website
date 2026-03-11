@@ -38,6 +38,18 @@
 
    退款策略：30 天内退款
 
+1. [DuckCoding](https://www.duckcoding.ai/register?aff=O0m6)
+
+   支持模型：Claude Code，Codex
+
+   价格：按量付费
+
+   购买方式：支付宝
+
+   注册优惠：注册送 1 元
+
+   退款策略：暂无
+
 1. [iKunCode](https://api.ikuncode.cc/register?aff=Q9eD)
 
    支持模型：Claude Code，Codex
