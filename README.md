@@ -122,6 +122,18 @@
 
    退款策略：24 小时内不满意退款
 
+1. [UU Code](https://www.uucode.org/auth?ref=KR4FP6XP)
+
+   支持模型：Claude Code，Codex
+
+   价格：按量付费（包月服务已暂停）
+
+   购买方式：微信、支付宝
+
+   注册优惠：暂无
+
+   退款策略：暂无
+
 1. [YunWu](https://yunwu.ai/register?aff=jfKr4M)
 
    支持模型：Claude Code，Codex，Gemini
