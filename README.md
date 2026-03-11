@@ -28,7 +28,7 @@
 
 1. [Cpass](https://cf.cpass.cc/register?aff=JFZj)
 
-   支持模型：Claude Code，Codex
+   支持模型：Claude Code，Codex，Gemini 等
 
    价格：按量付费
 
