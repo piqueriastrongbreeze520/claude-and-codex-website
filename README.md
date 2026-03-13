@@ -15,6 +15,13 @@
 
 ### 包月付费
 
+#### [Codex Easy](https://www.codexeasy.com/register?aff=Vez8)
+
+- **支持模型**：Codex
+- **价格**：¥49/月、¥79/月、¥99/月、¥199/月
+- **购买方式**：微信，咸鱼
+- **注册优惠**：试用一天（5 美元额度）
+
 #### [Codex-For.Me](https://codex-for.me/?invite=3125)
 
 - **支持模型**：Codex
